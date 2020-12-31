@@ -10,7 +10,7 @@ const dataProjects = [
         id: 6,
         img: portofolio,
         name: "ReactJS - Portofolio",
-        linkGithub: "bla.com",
+        linkGithub: "https://github.com/danangpurbojati/portofolio",
         linkLive: "bla.com",
         tags: [
             "reactjs",
