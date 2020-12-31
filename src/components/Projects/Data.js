@@ -11,7 +11,7 @@ const dataProjects = [
         img: portofolio,
         name: "ReactJS - Portofolio",
         linkGithub: "https://github.com/danangpurbojati/portofolio",
-        linkLive: "bla.com",
+        linkLive: "https://danang-portofolio.web.app/",
         tags: [
             "reactjs",
             "styled-components",
